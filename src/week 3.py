@@ -7,3 +7,4 @@ def calculate_discount(price, discount_percentage):
     else:
         return price
 print(calculate_discount(100, 20))
+ 
